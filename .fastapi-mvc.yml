@@ -1,0 +1,21 @@
+# Changes here will be overwritten by Copier
+_commit: 0.3.0
+_src_path: https://github.com/fastapi-mvc/copier-project.git
+aiohttp: true
+author: Hyeongsu Mun
+chart_name: fastapi-mvc-usecase
+container_image_name: fastapi-mvc-usecase
+copyright_date: 2023
+email: moonhou@gmail.com
+fastapi_mvc_version: 0.23.0
+github_actions: true
+helm: true
+license: 'no'
+nix: true
+package_name: fastapi_mvc_usecase
+project_description: This project was generated with fastapi-mvc.
+project_name: fastapi-mvc-usecase
+redis: true
+repo_url: https://github.com/amecoder/fastapi-mvc-usecase.git
+script_name: fastapi-mvc-usecase
+version: 0.1.0
